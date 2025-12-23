@@ -3,7 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  在 cai.bistu.edu.cn 财务系统中，所有金额输入框（含新增行）粘贴时自动删除空格
-// @author       你
+// @author       LoneSpectator
+// @license      GPL-3.0
 // @match        https://cai.bistu.edu.cn/*
 // @grant        none
 // ==/UserScript==
